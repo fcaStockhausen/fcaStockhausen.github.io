@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/2024/03/29/pensamientos1/</loc>
+<loc>fcastockhausen.github.io/blog/2024/03/29/pensamientos1/</loc>
 <lastmod>2024-03-29T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2024/03/31/descubiertas/</loc>
+<loc>fcastockhausen.github.io/blog/2024/03/31/descubiertas/</loc>
 <lastmod>2024-03-31T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2024/04/06/raiz_de_x/</loc>
+<loc>fcastockhausen.github.io/blog/2024/04/06/raiz_de_x/</loc>
 <lastmod>2024-04-06T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2024/04/07/funtores_adjuntos/</loc>
+<loc>fcastockhausen.github.io/blog/2024/04/07/funtores_adjuntos/</loc>
 <lastmod>2024-04-07T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2024/04/10/vasos-sanguineos/</loc>
-<lastmod>2024-04-10T00:00:00-04:00</lastmod>
+<loc>fcastockhausen.github.io/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
+<loc>fcastockhausen.github.io/</loc>
 </url>
 </urlset>
